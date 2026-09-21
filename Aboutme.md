@@ -7,6 +7,6 @@ src="https://cdnl.iconscout.com/lottie/premium/thumb/welcome-sign-animation-down
 
 
 
-This account is a representation of how I learn GitHub, Markdown and HTML.
+This account is a representation of my journey learning GitHub, Markdown, and HTML.
 
 Collections of clean, professional samples of technical documents, some short, some long, but all with ❤️.
